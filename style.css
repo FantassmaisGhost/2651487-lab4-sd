@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
+
+#country-info, #bordering-countries {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: white;
+}
